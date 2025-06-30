@@ -14,6 +14,15 @@ Este projeto demonstra como criar um modelo **RAG (Retrieval-Augmented Generatio
 
 Carrega arquivos de texto (`.txt`) como base de conhecimento, divide o conteúdo em pedaços menores, gera embeddings vetoriais, armazena esses vetores no ChromaDB e conecta a uma LLM local para responder perguntas baseadas no conteúdo carregado.
 
+<p>
+  <strong>📖 Leia meu post:</strong> E se o Tyrion Lannister fosse economista?
+  <br>
+  <a href="https://www.linkedin.com/posts/ana-luiza-souza-ribeiro-_e-se-o-tyrion-lannister-fosse-economista-activity-7339969948309417985-Yztc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADFlLpkB540tXETu4yF6PDgj0XN-hbX73Ko" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20no%20LinkedIn-F8EFD4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
 ---
 
 ## ⚙️ Requisitos
